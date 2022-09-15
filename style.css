@@ -99,6 +99,7 @@ a{
     /*scrollbar-gutter: stable both-edges;*/
     overflow-y: overlay;
     overflow-x: hidden;
+    z-index: 1000;
 }
 .popUp::-webkit-scrollbar {
     width: 8px;
